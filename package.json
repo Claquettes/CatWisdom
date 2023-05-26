@@ -7,11 +7,11 @@
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Claquettes/vscode-extension-samples"
+		"url": "https://github.com/Claquettes/CatWisdom"
 	},
 	"engines": {
 		"vscode": "^1.74.0"
-	},
+	},	
 	"extensionKind": [
 		"ui",
 		"workspace"
