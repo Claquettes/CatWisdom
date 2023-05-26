@@ -2,7 +2,8 @@
 	"name": "cat-wisdom",
 	"description": "CatWisdom, your daily dose of cat-coding wisdom",
 	"version": "0.0.2",
-	"publisher": "Claq",
+	"publisher": "Claquettes",
+	"icon": "icon.png",
 	"private": true,
 	"license": "MIT",
 	"repository": {
